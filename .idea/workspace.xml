@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdf34c61-7f76-42e2-bca4-0fbb6135305d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.config/ChatClient-1.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.config/ChatClient-2.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.config/ChatClient-3.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.config/ChatDemo.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.config/ChatServer.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/olga/junior/chat/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/olga/junior/chat/client/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/olga/junior/chat/server/ClientManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/olga/junior/chat/server/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/olga/junior/chat/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706867393507</updated>
-      <workItem from="1706867394610" duration="11561000" />
+      <workItem from="1706867394610" duration="12652000" />
     </task>
     <servers />
   </component>
